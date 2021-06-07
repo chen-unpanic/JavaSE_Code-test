@@ -1,8 +1,8 @@
-package bbbbbbb;
+package bbbbbbb.金字塔;
 
 import java.util.Scanner;
 
-public class jzt {
+public class JinZiTa {
     public static void main(String[] args) {
     Scanner s = new Scanner(System.in);
         System.out.println("请输入金字塔层数" );
